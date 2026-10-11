@@ -7,6 +7,10 @@
 | 公司 | 面试方向 | 主要内容 | 记录 |
 | --- | --- | --- | --- |
 | 同花顺 | AIME（涉及性能优化） | 项目交流、开放性场景题、反问与 HR 反馈 | [同花顺 AIME 面试经历](./experiences/tonghuashun-aime.md) |
+| 待补充 | 多模态算法实习生 | 面经待补充 | [多模态算法实习生面试经历](./experiences/multimodal-algorithm-intern.md) |
+| 待补充 | 智能数据挖掘算法工程师（实习） | 面经待补充 | [智能数据挖掘算法工程师（实习）面试经历](./experiences/intelligent-data-mining-algorithm-intern.md) |
+| 奇安信 | 2027 届校招 · 人工智能方向 | 面经待补充 | [奇安信人工智能方向面试经历](./experiences/qianxin-ai-campus-recruitment-2027.md) |
+| 易盾 | 人工智能算法实习生 | 面经待补充 | [易盾人工智能算法实习生面试经历](./experiences/yidun-ai-algorithm-intern.md) |
 
 ## 记录说明
 
