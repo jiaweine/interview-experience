@@ -12,7 +12,7 @@
 | 德赛西威 | 2026-09-21 19:00 | 智能数据挖掘算法工程师（实习） | 面经待补充 | [德赛西威智能数据挖掘算法工程师（实习）面试经历](./experiences/intelligent-data-mining-algorithm-intern.md) |
 | 奇富科技 | 2026-09-20 15:00 | 多模态算法实习生 | 面经待补充 | [奇富科技多模态算法实习生面试经历](./experiences/multimodal-algorithm-intern.md) |
 | 奇安信 | 2026-09-15 16:00–16:30 | 2027 届校招 · 人工智能方向 | 面经待补充 | [奇安信人工智能方向面试经历](./experiences/qianxin-ai-campus-recruitment-2027.md) |
-| 易盾 | 2026-09-11 17:00 | 人工智能算法实习生 | 面经待补充 | [易盾人工智能算法实习生面试经历](./experiences/yidun-ai-algorithm-intern.md) |
+| 网易易盾 | 2026-09-11 17:00 | 人工智能算法实习生 | EvoSkill-Harness、GRPO 奖励设计与训练稳定性、Deepfake 不平衡建模、面试反馈 | [网易易盾人工智能算法实习生面试经历](./experiences/yidun-ai-algorithm-intern.md) |
 | 快手 | 2026-09-03 16:00 | 可灵平台策略应用算法实习生 | 面经待补充 | [快手可灵平台策略应用算法实习生面试经历](./experiences/kuaishou-kling-platform-strategy-algorithm-intern.md) |
 | 滴滴 | 2026-08-28 14:00 | 战略业务事业群算法实习生（二面） | 面经待补充 | [滴滴战略业务事业群算法实习生二面经历](./experiences/strategic-business-group-algorithm-intern-second-round.md) |
 | 滴滴 | 2026-08-24 15:00 | 战略业务事业群-算法实习生（1）（一面） | 面经待补充 | [滴滴战略业务事业群算法实习生一面经历](./experiences/strategic-business-group-algorithm-intern-first-round.md) |
