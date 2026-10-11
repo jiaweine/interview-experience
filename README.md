@@ -14,6 +14,7 @@
 | 快手 | 可灵平台策略应用算法实习生 | 面经待补充 | [快手可灵平台策略应用算法实习生面试经历](./experiences/kuaishou-kling-platform-strategy-algorithm-intern.md) |
 | 滴滴 | 战略业务事业群-算法实习生（1）（一面） | 面经待补充 | [滴滴战略业务事业群算法实习生一面经历](./experiences/strategic-business-group-algorithm-intern-first-round.md) |
 | 滴滴 | 战略业务事业群算法实习生（二面） | 面经待补充 | [滴滴战略业务事业群算法实习生二面经历](./experiences/strategic-business-group-algorithm-intern-second-round.md) |
+| 贝壳 | 生成式搜索/推荐算法工程师【实习】 | 面经待补充 | [贝壳生成式搜索/推荐算法工程师实习面试经历](./experiences/beike-generative-search-recommendation-algorithm-intern.md) |
 
 ## 记录说明
 
