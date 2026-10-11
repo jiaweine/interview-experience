@@ -21,6 +21,7 @@
 | 字节跳动 | 大模型算法 | 面经待补充 | [字节跳动大模型算法面试经历](./experiences/bytedance-large-model-algorithm.md) |
 | 吉利控股集团 | 数字化实习生 | 面经待补充 | [吉利控股集团数字化实习生面试经历](./experiences/geely-digital-intern.md) |
 | 南讯股份 | 算法工程师 | 面经待补充 | [南讯股份算法工程师面试经历](./experiences/nanxun-algorithm-engineer.md) |
+| 货拉拉 | AI开发实习生（创新业务·一面） | 面经待补充 | [货拉拉 AI开发实习生一面经历](./experiences/huolala-ai-development-innovation-business-intern-first-round.md) |
 | 货拉拉 | AI开发实习生（创新业务·二面） | 面经待补充 | [货拉拉 AI开发实习生二面经历](./experiences/huolala-ai-development-innovation-business-intern-second-round.md) |
 
 ## 记录说明
