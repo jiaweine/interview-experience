@@ -21,7 +21,7 @@
 | 奇富科技 | 2026-09-20 15:00 | 多模态算法实习生 | 面经待补充 | [奇富科技多模态算法实习生面试经历](./experiences/multimodal-algorithm-intern.md) |
 | 奇安信 | 2026-09-15（约 16:00 开始） | 2027 届校招 · 人工智能方向 | EvoSkill-Harness、LoRA/GRPO/GSPO、FinDeepResearch、Embedding/Reranker、后续无明确消息 | [奇安信人工智能方向面试经历](./experiences/qianxin-ai-campus-recruitment-2027.md) |
 | 网易易盾 | 2026-09-11 17:00 | 人工智能算法实习生 | EvoSkill-Harness、GRPO 奖励设计与训练稳定性、Deepfake 不平衡建模、面试反馈 | [网易易盾人工智能算法实习生面试经历](./experiences/yidun-ai-algorithm-intern.md) |
-| 快手 | 2026-09-03 16:00 | 可灵平台策略应用算法实习生 | 面经待补充 | [快手可灵平台策略应用算法实习生面试经历](./experiences/kuaishou-kling-platform-strategy-algorithm-intern.md) |
+| 快手 | 2026-09-03 16:00 | 可灵平台策略应用算法实习生 | Agent 框架全链路深挖、Skill 路由与 Top1 指标、LangGraph State、Verifier、局部重试、后续无明确消息 | [快手可灵平台策略应用算法实习生面试经历](./experiences/kuaishou-kling-platform-strategy-algorithm-intern.md) |
 | 滴滴 | 2026-08-28 14:00 | 战略业务事业群算法实习生（二面） | 面经待补充 | [滴滴战略业务事业群算法实习生二面经历](./experiences/strategic-business-group-algorithm-intern-second-round.md) |
 | 滴滴 | 2026-08-24 15:00 | 战略业务事业群-算法实习生（1）（一面） | 面经待补充 | [滴滴战略业务事业群算法实习生一面经历](./experiences/strategic-business-group-algorithm-intern-first-round.md) |
 | 贝壳 | 2026-08-14 14:00 | 生成式搜索/推荐算法工程师【实习】 | 面经待补充 | [贝壳生成式搜索/推荐算法工程师实习面试经历](./experiences/beike-generative-search-recommendation-algorithm-intern.md) |
