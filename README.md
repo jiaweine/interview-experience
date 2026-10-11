@@ -24,7 +24,7 @@
 | --- | --- | --- | --- | --- |
 | 同花顺 | 2026-10-09 | AIME（涉及性能优化） | 项目交流、开放性场景题、反问与 HR 反馈 | [同花顺 AIME 面试经历](./experiences/tonghuashun-aime.md) |
 | 德赛西威 | 2026-09-21 19:00 | 智能数据挖掘算法工程师（实习） | EvoSkill-Harness、LoRA、Graph-of-Skills、Trace Verifier、三个项目交叉提问、后续无明确消息 | [德赛西威智能数据挖掘算法工程师（实习）面试经历](./experiences/intelligent-data-mining-algorithm-intern.md) |
-| 奇富科技 | 2026-09-20 15:00 | 多模态算法实习生 | 面经待补充 | [奇富科技多模态算法实习生面试经历](./experiences/multimodal-algorithm-intern.md) |
+| 奇富科技 | 2026-09-20 15:00 | 多模态算法实习生 | EvoSkill-Harness、Graph-of-Skills、GRPO/PPO、Memory Patch、LoRA、面试后无明确消息 | [奇富科技多模态算法实习生面试经历](./experiences/multimodal-algorithm-intern.md) |
 | 奇安信 | 2026-09-15（约 16:00 开始） | 2027 届校招 · 人工智能方向 | EvoSkill-Harness、LoRA/GRPO/GSPO、FinDeepResearch、Embedding/Reranker、后续无明确消息 | [奇安信人工智能方向面试经历](./experiences/qianxin-ai-campus-recruitment-2027.md) |
 | 网易易盾 | 2026-09-11 17:00 | 人工智能算法实习生 | EvoSkill-Harness、GRPO 奖励设计与训练稳定性、Deepfake 不平衡建模、面试反馈 | [网易易盾人工智能算法实习生面试经历](./experiences/yidun-ai-algorithm-intern.md) |
 | 快手 | 2026-09-03 16:00 | 可灵平台策略应用算法实习生 | Agent 框架全链路深挖、Skill 路由与 Top1 指标、LangGraph State、Verifier、局部重试、后续无明确消息 | [快手可灵平台策略应用算法实习生面试经历](./experiences/kuaishou-kling-platform-strategy-algorithm-intern.md) |
