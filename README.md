@@ -23,6 +23,7 @@
 | 南讯股份 | 算法工程师 | 面经待补充 | [南讯股份算法工程师面试经历](./experiences/nanxun-algorithm-engineer.md) |
 | 货拉拉 | AI开发实习生（创新业务·一面） | 面经待补充 | [货拉拉 AI开发实习生一面经历](./experiences/huolala-ai-development-innovation-business-intern-first-round.md) |
 | 货拉拉 | AI开发实习生（创新业务·二面） | 面经待补充 | [货拉拉 AI开发实习生二面经历](./experiences/huolala-ai-development-innovation-business-intern-second-round.md) |
+| 北银金科 | 算法实习生-大模型 | 面经待补充 | [北银金科算法实习生（大模型）面试经历](./experiences/beiyin-jinke-llm-algorithm-intern.md) |
 
 ## 记录说明
 
