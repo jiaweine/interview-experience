@@ -19,6 +19,7 @@
 | 贝壳 | 生成式搜索/推荐算法工程师【实习】 | 面经待补充 | [贝壳生成式搜索/推荐算法工程师实习面试经历](./experiences/beike-generative-search-recommendation-algorithm-intern.md) |
 | 百度 | Agent 算法 | 面经待补充 | [百度 Agent 算法面试经历](./experiences/baidu-agent-algorithm.md) |
 | 字节跳动 | 大模型算法 | 面经待补充 | [字节跳动大模型算法面试经历](./experiences/bytedance-large-model-algorithm.md) |
+| 吉利控股集团 | 数字化实习生 | 面经待补充 | [吉利控股集团数字化实习生面试经历](./experiences/geely-digital-intern.md) |
 
 ## 记录说明
 
