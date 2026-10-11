@@ -27,6 +27,7 @@
 | 货拉拉 | 2026-07-13 15:00 | AI开发实习生（创新业务·一面） | 面经待补充 | [货拉拉 AI开发实习生一面经历](./experiences/huolala-ai-development-innovation-business-intern-first-round.md) |
 | 北银金科 | 2026-07-01 16:00 | 算法实习生-大模型 | 面经待补充 | [北银金科算法实习生（大模型）面试经历](./experiences/beiyin-jinke-llm-algorithm-intern.md) |
 | 暖哇科技 | 2026-06-15 14:00 | 算法实习生 | 面经待补充 | [暖哇科技算法实习生面试经历](./experiences/nuanwa-technology-algorithm-intern.md) |
+| 知乎 | 2026-06-03 14:00 | 搜索算法实习生（27届） | 面经待补充 | [知乎搜索算法实习生（27届）面试经历](./experiences/zhihu-search-algorithm-intern-2027.md) |
 
 ## 记录说明
 
