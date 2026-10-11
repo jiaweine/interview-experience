@@ -12,6 +12,7 @@
 | 奇安信 | 2027 届校招 · 人工智能方向 | 面经待补充 | [奇安信人工智能方向面试经历](./experiences/qianxin-ai-campus-recruitment-2027.md) |
 | 易盾 | 人工智能算法实习生 | 面经待补充 | [易盾人工智能算法实习生面试经历](./experiences/yidun-ai-algorithm-intern.md) |
 | 快手 | 可灵平台策略应用算法实习生 | 面经待补充 | [快手可灵平台策略应用算法实习生面试经历](./experiences/kuaishou-kling-platform-strategy-algorithm-intern.md) |
+| 待补充 | 战略业务事业群算法实习生（二面） | 面经待补充 | [战略业务事业群算法实习生二面经历](./experiences/strategic-business-group-algorithm-intern-second-round.md) |
 
 ## 记录说明
 
