@@ -22,6 +22,7 @@
 
 | 公司 | 面试时间 | 面试方向 | 主要内容 | 记录 |
 | --- | --- | --- | --- | --- |
+| 滴滴 | 2026-10-15 15:00（计划 1 小时） | 算法平台-算法实习生 | 视频面试邀请；面经及结果待补充 | [滴滴算法平台算法实习生面试记录](./experiences/didi-algorithm-platform-algorithm-intern-2026-10-15.md) |
 | 同花顺 | 2026-10-09 | AIME（涉及性能优化） | 项目交流、开放性场景题、反问与 HR 反馈 | [同花顺 AIME 面试经历](./experiences/tonghuashun-aime.md) |
 | 德赛西威 | 2026-09-21 19:00 | 智能数据挖掘算法工程师（实习） | EvoSkill-Harness、LoRA、Graph-of-Skills、Trace Verifier、三个项目交叉提问、后续无明确消息 | [德赛西威智能数据挖掘算法工程师（实习）面试经历](./experiences/intelligent-data-mining-algorithm-intern.md) |
 | 奇富科技 | 2026-09-20 15:00 | 多模态算法实习生 | EvoSkill-Harness、Graph-of-Skills、GRPO/PPO、Memory Patch、LoRA、面试后无明确消息 | [奇富科技多模态算法实习生面试经历](./experiences/multimodal-algorithm-intern.md) |
