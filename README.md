@@ -31,7 +31,7 @@
 | 快手 | 2026-09-03 16:00 | 可灵平台策略应用算法实习生 | Agent 框架全链路深挖、Skill 路由与 Top1 指标、LangGraph State、Verifier、局部重试、后续无明确消息 | [快手可灵平台策略应用算法实习生面试经历](./experiences/kuaishou-kling-platform-strategy-algorithm-intern.md) |
 | 滴滴 | 2026-08-28 14:00 | 战略业务事业群算法实习生（二面） | 面经待补充 | [滴滴战略业务事业群算法实习生二面经历](./experiences/strategic-business-group-algorithm-intern-second-round.md) |
 | 滴滴 | 2026-08-24 15:00 | 战略业务事业群-算法实习生（1）（一面） | Memory Patch、Reflection Gate、伪成功样本、Skill 自进化、金融文档与投研检索；**一面通过** | [滴滴战略业务事业群算法实习生一面经历](./experiences/strategic-business-group-algorithm-intern-first-round.md) |
-| 贝壳 | 2026-08-14 14:00 | 生成式搜索/推荐算法工程师【实习】 | 面经待补充 | [贝壳生成式搜索/推荐算法工程师实习面试经历](./experiences/beike-generative-search-recommendation-algorithm-intern.md) |
+| 贝壳 | 2026-08-14 14:00 | 生成式搜索/推荐算法工程师【实习】 | 已补充简短面试感受（个人评价）；不展开技术问题 | [贝壳生成式搜索/推荐算法工程师实习面试经历](./experiences/beike-generative-search-recommendation-algorithm-intern.md) |
 | 百度 | 2026-08-11 19:00 | Agent 算法 | 面经待补充 | [百度 Agent 算法面试经历](./experiences/baidu-agent-algorithm.md) |
 | 快手 | 2026-08-10 17:00 | 大模型应用算法实习生（智能客服） | 面经待补充 | [快手智能客服大模型应用算法实习生面试经历](./experiences/kuaishou-llm-application-algorithm-customer-service-intern.md) |
 | 快手 | 2026-08-04 19:00 | 大模型应用算法实习生（智能客服·一面） | 面经待补充 | [快手智能客服大模型应用算法实习生一面经历](./experiences/kuaishou-llm-application-customer-service-first-round.md) |
