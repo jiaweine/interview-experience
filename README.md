@@ -3,6 +3,7 @@
 | 公司 | 面试时间 | 面试方向 | 主要内容 | 记录 |
 | --- | --- | --- | --- | --- |
 | 同花顺 | 2026-10-09 | AIME（涉及性能优化） | 项目交流、开放性场景题、反问与 HR 反馈 | [同花顺 AIME 面试经历](./experiences/tonghuashun-aime.md) |
+| 网易易盾 | 2026-09-11 17:00 | 人工智能算法实习生 | EvoSkill-Harness、GRPO 奖励设计与训练稳定性、Deepfake 不平衡建模、面试反馈 | [网易易盾人工智能算法实习生面试经历](./experiences/yidun-ai-algorithm-intern.md) |
 | 贝壳 | 2026-08-14 14:00 | 生成式搜索/推荐算法工程师【实习】 | 简短面试感受（个人评价），不展开技术问题 | [贝壳生成式搜索/推荐算法工程师实习面试经历](./experiences/beike-generative-search-recommendation-algorithm-intern.md) |
 
 ## 记录说明
